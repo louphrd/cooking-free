@@ -1,0 +1,26 @@
+.btn{
+
+ background-color: #090E67;
+
+ padding: 15px 20px;
+
+ border-radius: 10px;
+
+ color: lightpink;
+
+ font-style: 0;
+
+ text-decoration: none;
+
+ font-family: 'Dancing Script', sans-serif;
+
+}
+
+.btn:hover{
+
+ background-color: #FFF2F9;
+
+ color: lightpink;
+
+}
+

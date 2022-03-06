@@ -1,0 +1,87 @@
+.banner{
+
+ background-image: linear-gradient(130deg, rgba(5,4,0,0.8) 10%, rgba(0,0,0,0.5) 50%),url(../../images/gateau.jpeg);
+
+ color: lightpink;
+
+ padding: 150px 0px;
+
+ background-size: cover;
+
+ background-position: center;
+
+ padding-top: 30px;
+
+ margin: 0px;
+
+}
+
+.Accueil{
+
+ width: 700px;
+
+ margin: 0 auto;
+
+ text-align: center;
+
+ justify-content: space-between;
+
+ margin-top: 0px
+
+}
+
+body{
+
+ margin: 0px
+
+}
+
+ 
+ 
+ 
+@media (max-width: 960px) {
+
+  .Accueil {
+
+    width: 700px;
+
+  }
+
+}
+
+@media (max-width: 720px) {
+
+  .Accueil {
+
+    width: 500px;
+
+  }
+
+}
+
+@media (max-width: 540px) {
+
+  .Accueil {
+
+    width: 300px;
+
+  }
+
+}
+
+ 
+ 
+.Accueil h2{
+
+ font-family: 'Dancing Script', monospace;
+
+ margin-bottom: 50px
+
+}
+
+.Accueil h1{
+
+ font-size: 100px
+
+}
+
